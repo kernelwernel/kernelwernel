@@ -1,6 +1,6 @@
 <div align=center>
  
-<h1>Hello there, I'm Kernel!</h1>
+<h1>Hello there, I'm Louis!</h1>
 
 <p>I'm a French Japanese systems programmer currently studying Geography/Geopolitics.</p> 
 </div>
