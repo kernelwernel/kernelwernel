@@ -17,7 +17,7 @@ GitHub will autolink `img`, but won't produce a link when `href="#"`.
 
 **Stuff about me**
 - I do systems programming and library development in C++
-- Interested in LLVM, VM design, hardware hacking, compiler design, CPU architecture, and CPU vulnerabilities
+- Interested in LLVM, VM design, hardware hacking, compiler design, ARM, embedded systems, CPU architecture, and CPU vulnerabilities
 - I also do pentesting
 - I occasionally use TypeScript
 - My main project is [VMAware](https://github.com/kernelwernel/VMAware)
