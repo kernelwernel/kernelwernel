@@ -13,7 +13,8 @@
 **Stuff about me**
 - I do systems programming and library development in C++
 - Interested in LLVM, VM design, hardware hacking, compiler design, ARM, embedded systems, CPU architecture, and CPU vulnerabilities
-- I also do pentesting
 - I occasionally use TypeScript and Python
 - My main project is [VMAware](https://github.com/kernelwernel/VMAware)
-- Currently working on an ARM emulation framework 
+- Currently working on an ARM infrastructure toolchain
+- I also do pentesting
+- Outside of computers, I'm a cartographer mapping various stuff that interests me :)
