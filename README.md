@@ -17,4 +17,4 @@
 - My main project is [VMAware](https://github.com/kernelwernel/VMAware)
 - Currently working on an ARM infrastructure toolchain
 - I also do pentesting
-- Outside of computers, I work on cartography [[view my maps](https://github.com/kernelwernel/Mapology)]
+- Outside of computers, I work on cartography and make [maps](https://github.com/kernelwernel/Mapology)]
