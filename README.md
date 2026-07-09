@@ -14,7 +14,7 @@
 - I do systems programming and library development in C++
 - Interested in LLVM, VMs, emulation, hardware tinkering, compiler design, ARM, embedded systems, CPU architecture, and CPU vulnerabilities
 - I occasionally use TypeScript and Python
-- Creator of the [VMAware](https://github.com/kernelwernel/VMAware) project
+- Creator of the [VMAware](https://github.com/NotRequiem/VMAware) project
 - Currently working on an ARM infrastructure toolchain called [LLARM](https://github.com/kernelwernel/llarm)
 - I also do pentesting
 - Outside of computers, I work on cartography and make [maps](https://github.com/kernelwernel/Mapology)
